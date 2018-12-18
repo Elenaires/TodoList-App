@@ -1,0 +1,19 @@
+<!--<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryLight">#64b5f6</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FFFF9800</color>
+    <color name="colorTextPrimary">@android:color/white</color>
+    <color name="colorScreenBackground">#fff3e0</color>
+    <color name="colorTextHint">#E0E0E0</color>
+</resources>-->
+
+<resources>
+    <color name="colorPrimary">#ef5e91</color>
+    <color name="colorPrimaryLight">#ff91c1</color>
+    <color name="colorPrimaryDark">#b92864</color>
+    <color name="colorAccent">#ef5e91</color>
+    <color name="colorTextPrimary">@android:color/white</color>
+    <color name="colorScreenBackground">#fce4ec</color>
+    <color name="colorTextHint">#E0E0E0</color>
+</resources>
