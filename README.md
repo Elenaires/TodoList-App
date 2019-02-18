@@ -1,5 +1,4 @@
 # TodoList-App
-Android fundamentals 10.1 Part A: Room, LiveData, and ViewModel
 
 This is a simple Todo List app that allows users to save todo items locally using Room Persistence Library.
 <p><img src="https://github.com/Elenaires/TodoList-App/blob/master/images/AddItem.png"/></p>
